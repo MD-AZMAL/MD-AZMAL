@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm MD Azmal</h1>
 <h3 align="center">A passionate fullstack native app developer from India. Proficient in MERN stack, flutter and Blockchain</h3>
 
@@ -39,10 +41,26 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MD-AZMAL)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-azmal&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;" /></p>
+<center>
+    <table >
+        <tr>
+            <td colspan="1">
+                <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-azmal&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;" /></p>
+    
+</td>
+            <td colspan="1">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-azmal&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;" /></p>
+    
+</td>
+        </tr>
+        <tr>
+            <td colspan="3" >
+                <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-azmal&show_icons=true&locale=en&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%; " /></p>
+    
+</td>
+        </tr>
+    </table>
+</center>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-azmal&show_icons=true&locale=en&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-azmal&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/MD-AZMAL)  
