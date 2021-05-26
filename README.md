@@ -39,19 +39,10 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MD-AZMAL)  
 
-<table border="0">
-<tr>
-<td>
-<p><img align="left" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-azmal&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="md-azmal" width="100%"/></p>
-</td>
-<td>
-<p>&nbsp;<img align="center" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=md-azmal&show_icons=true&locale=en&theme=gruvbox" alt="md-azmal" width="100%"/></p>
-</td>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-azmal&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;" /></p>
 
-<td>
-<p style="padding-top: 20px"><img align="center" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-azmal&theme=gruvbox" alt="md-azmal" width="100%"/></p>
-</td>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-azmal&show_icons=true&locale=en&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;"/></p>
 
-</tr>
-</table>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-azmal&theme=gruvbox" alt="md-azmal" style="display:block; width: 100%;" /></p>
+
 ![GitHub metrics](https://metrics.lecoq.io/MD-AZMAL)  
