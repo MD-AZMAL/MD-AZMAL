@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MD Azmal</h1>
-<h3 align="center">A passionate fullstack native app developer from India. Proficient in MERN stack, flutter and Blockchain</h3>
+<h3 align="center">A passionate fullstack native app developer from India. Proficient in MERN stack and Blockchain</h3>
 
 <p align="left"> 
 
