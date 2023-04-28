@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/mdazmal11" target="blank"><img src="https://img.shields.io/twitter/follow/mdazmal11?logo=twitter&style=for-the-badge" alt="mdazmal11" /></a> </p>
 
-- 🔭 I’m currently working on **a challenge 100DaysOfPolyfill checkout my twitter! and also working on blockchain projects in NodeJs**
+- 🔭 I’m currently working on **microservice applications using typescript, quarkus and more**
 
-- 🌱 I’m currently learning **Blockchain, Flutter and NextJs**
+- 🌱 I’m currently learning **Blockchain, React Native and NextJs**
 
 - 👨‍💻 All of my projects are available at [here](http://azmal.co.in/)
 
-- 💬 Ask me about **JavaScript, Flutter, React, Open Source and anything you like!**
+- 💬 Ask me about **Typescript, React, React Native, Kubernetes, Open Source and anything you like!**
 
 - 📫 How to reach me **azmalmd12@gmail.com**
 
