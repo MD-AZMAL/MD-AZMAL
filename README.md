@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm MD Azmal</h1>
 <h3 align="center">A passionate fullstack native app developer from India. Proficient in MERN stack and Blockchain</h3>
 
-<p align="left"> <a href="https://twitter.com/mdazmal11" target="blank"><img src="https://img.shields.io/twitter/follow/mdazmal11?logo=twitter&style=for-the-badge" alt="mdazmal11" /></a> </p>
-
 - 🔭 I’m currently working on **microservice applications using typescript, quarkus and more**
 
 - 🌱 I’m currently learning **Blockchain, React Native and NextJs**
