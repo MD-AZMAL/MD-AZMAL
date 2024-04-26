@@ -17,11 +17,6 @@
 
 - ⚡ Fun fact **Almost anything powered by electricity requires code.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mdazmal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="mdazmal11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-azmal-570308160" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="md-azmal-570308160" height="30" width="40" /></a>
-</p>
 
 
 <center>
